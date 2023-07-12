@@ -1,1 +1,1 @@
-# one-cklick
+# one-click
